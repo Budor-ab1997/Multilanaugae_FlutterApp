@@ -1,0 +1,19 @@
+{
+
+
+
+  "home_page" : "الصفحة الرئيسية",
+  "personal_info": "المعلومات الشخصية",
+  "name" : "الإسم" ,
+  "name_hint" : "ادخل الإسم",
+  "email" : "الإيميل",
+  "email_hint": "ادخل الإيميل",
+  "required_field": "حقل مطلوب",
+  "submit_info": "إرسال المعلومات",
+  "about_us": "عنا",
+  "setting" : "الإعدادات",
+  "change_language": "تغيير اللغة",
+  "about" : "عن"
+
+
+}

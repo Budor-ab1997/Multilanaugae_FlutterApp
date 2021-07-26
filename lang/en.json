@@ -1,0 +1,24 @@
+{
+
+
+
+  "home_page" : "Home Page",
+  "personal_info": "Personal Information",
+  "name" : "name" ,
+  "name_hint" : "enter name",
+  "email" : "email",
+  "email_hint": "enter an email",
+  "required_field": "This is required field",
+  "submit_info": "Submit information",
+  "about_us": "about us",
+  "setting" : "setting",
+  "change_language": "Change Language",
+  "about" : "about"
+
+
+
+
+
+}
+
+
